@@ -1,7 +1,11 @@
 TO run this project run the following command:
 
+cd Recipe_finder
+
 npm i
+
 npm run build
+
 npm run start
 
 
