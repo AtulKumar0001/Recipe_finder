@@ -1,9 +1,7 @@
 TO run this project run the following command:
 
 npm i
-
 npm run build
-
 npm run start
 
 
